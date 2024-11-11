@@ -3,7 +3,7 @@ title: La Paire de Rayons au Pays du Soleil Levant
 date: 2024-11-12 00:00:00 +0100
 categories: [Cie, Voyage à vélo]
 tags: [voyage à vélo, japon, corée du sud ]     # TAG names should always be lowercase
-description: Rétrospection sur mon voyage à vélo de Séoul à Tokyo.
+description: Rétrospective de mon voyage à vélo de Séoul à Tokyo
 author: sofianlak
 ---
 
