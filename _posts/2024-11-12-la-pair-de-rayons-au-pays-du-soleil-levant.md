@@ -1,6 +1,6 @@
 ---
 title: La Paire de Rayons au Pays du Soleil Levant
-date: 2024-11-11 18:00:00 +0100
+date: 2024-11-12 00:00:00 +0100
 categories: [Cie, Voyage à vélo]
 tags: [voyage à vélo, japon, corée du sud ]     # TAG names should always be lowercase
 description: Rétrospection sur mon voyage à vélo de Séoul à Tokyo.
@@ -45,7 +45,7 @@ Mais, avec du recul, on apprend que ces creux et ces bosses façonnent notre voy
 Ces petits soucis mécaniques m’ont poussé à franchir la porte de vélocistes, affrontant une nouvelle difficulté : la barrière de la langue. Mais cette contrainte m’a ouvert une nouvelle porte : le vélociste, curieux de mon voyage, m’a invité à passer la nuit chez lui. Là, par hasard, je rencontre sa femme, qui apprenait le français depuis cinq ans. Mes arrêts imprévus m’ont valu d’autres rencontres : cet homme m’apercevant par la fenêtre m’a invité avec un grand sourire pour un petit déjeuner avec sa famille ; ou encore cette déshydratation qui m’a conduit dans un **[konbini](https://fr.wikipedia.org/wiki/Konbini){:target="_blank"}** (supérette japonaise), où j’ai rencontré un autre voyageur français, **[Colin](https://lesmilleetuneroutesavelo.jimdofree.com){:target="_blank"}**, venu au Japon à vélo depuis Lyon, après avoir traversé l’Europe et l’Asie.
 
 ![Desktop View](/assets/img/s2t/s2t-volcan-sakurajima.jpg){: width="972" height="589" style="border-radius: 20px;"}
-*Le volcan Sakurajima en éruption, un belle surprise*
+*Le volcan Sakurajima en éruption, une belle surprise*
 
 Ces imprévus, ces difficultés, se transforment souvent en découvertes ou rencontres inattendues. On découvre alors la **[sérendipité](https://fr.wikipedia.org/wiki/Sérendipité){:target="_blank"}**, où chaque obstacle semble receler une occasion cachée.
 
@@ -111,7 +111,7 @@ Chaque arrêt, chaque recul m’a permis de voir autrement, d’apprécier davan
 > « Les voyageurs n’ont ordinairement pour observer que les lunettes qu’ils ont apportées de leur pays et négligent entièrement le soin d’en faire retailler les verres dans les pays où ils vont. De là tant de mauvaises observations. » — Jean Potocki
 
 
-Tout ce que j’ai raconté, j’aurais pu l’expérimenter dans mon propre pays, la France. Mais j’avais cette volonté de provoquer et de faire trembler la vie, en choisissant l’inconfort. En continuant le voyage d’**[Ibn Battûta](https://fr.wikipedia.org/wiki/Ibn_Battûta){:target="_blank"}** (1325), qui, durant 30 années, est parti du Maroc pour atteindre les confins de l’Asie jusqu’en Chine. En m’inspirant de cette quête, j’ai pris la suite de l’intrigue, décidé à partir à l’autre bout du monde, là où le soleil se lève avant tout autre : l’Asie de l’Est.
+Tout ce que j’ai raconté, j’aurais pu l’expérimenter dans mon propre pays, la France. Mais j’avais cette volonté de provoquer et de faire trembler la vie, en choisissant l’inconfort. En continuant le voyage d’**[Ibn Battûta](https://fr.wikipedia.org/wiki/Ibn_Battûta){:target="_blank"}** (1325), qui, durant trente années, est parti du Maroc pour atteindre les confins de l’Asie jusqu’en Chine. En m’inspirant de cette quête, j’ai pris la suite de l’intrigue, décidé à partir à l’autre bout du monde, là où le soleil se lève avant tout autre : l’Asie de l’Est.
 
 Ma traversée de la Corée du Sud a duré une dizaine de jours, tandis qu’au Japon, j’ai passé quarante jours à explorer ses multiples facettes.
 
@@ -158,7 +158,7 @@ Ma façon occidentale de voyager cherchait toujours le *« point d’intérêt �
 
 Ce voyage, au-delà des paysages et des kilomètres, s’est transformé en une **aventure humaine** où chaque rencontre a laissé une trace indélébile et profonde. Les visages croisés, les sourires échangés, et même les rencontres inattendues. 
 
-Revoir, par le plus grand des hasards, certains voyageurs, des semaines ou des mois plus tard, dans une même auberge ou dans une autre ville, a été une source de surprise et de connexion. J’ai vite compris que le monde était petit, comme si pour me remercier, ces kami s’amusaient à remettre les memes personnes sur notre chemin. Aussi, je me souviens à Tokyo, dans une petite ruelle, ce restaurant choisi par hasard, ou je rencontre ce célèbre catcheur que j’admirais enfant, **[Chris Jericho](https://fr.wikipedia.org/wiki/Chris_Jericho){:target="_blank"}**. 
+Revoir, par le plus grand des hasards, certains voyageurs, des semaines ou des mois plus tard, dans une même auberge ou dans une autre ville, a été une source de surprise et de connexion. J’ai vite compris que le monde était petit, comme si pour me remercier, les kami s’amusaient à remettre les mêmes personnes sur notre chemin. Aussi, je me souviens à Tokyo, dans une petite ruelle, ce restaurant choisi par hasard, ou je rencontre ce célèbre catcheur que j’admirais enfant, **[Chris Jericho](https://fr.wikipedia.org/wiki/Chris_Jericho){:target="_blank"}**. 
 
 **C'est l'humain qui est finalement au cœur de cette expérience, de nos voyages, de nos vies.** Ces rencontres m’ont inspiré, m’ont surpris, et parfois, elles ont changé ma perception, ajoutant une nouvelle couche à ma vision du monde.
 
@@ -176,7 +176,7 @@ Enfin, il m’a reconnecté à une passion d’enfance que j’avais longtemps l
 <br>
 <br> 
 
-> Pour les plus curieux, j’ai publié une série d’épisodes en vidéo sur cette [chaine YouTube](https://www.youtube.com/@sofianlak){:target="_blank"}.
+> Pour les plus curieux, j’ai publié une série de vidéos sur cette [chaine YouTube](https://www.youtube.com/@sofianlak){:target="_blank"}.
 {: .prompt-info }
 
 <br>
