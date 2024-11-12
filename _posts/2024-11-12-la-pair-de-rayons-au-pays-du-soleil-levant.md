@@ -182,4 +182,4 @@ Enfin, il m’a reconnecté à une passion d’enfance que j’avais longtemps l
 <br>
 
 [^1]: [The Awareness Problem On Combating Overtourism in Japan](https://donnykimball.com/awareness-a6bb0099eb00?srsltid=AfmBOoo1yzi_NowyheHns5XLypMcmviZTf8q2smd1XkGSulMqG7WpI8U){:target="_blank"}
-[^2]: [Why Does Japan Drive On The Left ?](https://www.google.com/search?client=safari&rls=en&q=JAPAN+DRIVES+ON+THE+LEFT%3F&ie=UTF-8&oe=UTF-8){:target="_blank"}
+[^2]: [Why Does Japan Drive On The Left ?](https://www.2pass.co.uk/japan.htm){:target="_blank"}
