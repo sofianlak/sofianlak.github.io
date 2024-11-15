@@ -5,6 +5,8 @@ categories: [Cie, Voyage à vélo]
 tags: [voyage à vélo, japon, corée du sud ]     # TAG names should always be lowercase
 description: Rétrospective de mon voyage à vélo de Séoul à Tokyo
 author: sofianlak
+image:
+    path: /assets/img/headers/s2t-header.jpg
 ---
 
 <br>
