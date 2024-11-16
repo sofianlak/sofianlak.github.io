@@ -4,8 +4,13 @@
   icon: "fab fa-github"
 
 - type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/sofianlakhdar/'  # Fill with your Linkedin homepage
+  icon: "fab fa-linkedin"   # icons powered by <https://fontawesome.com/>
+  url:  "https://www.linkedin.com/in/sofianlakhdar/"  # Fill with your Linkedin homepage
+
+
+- type: youtube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/@sre-and-cie"
 
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"

@@ -19,6 +19,5 @@ Ce blog reflète également mon parcours d’apprentissage dans ce domaine et mo
 
 ## **Comment me contacter ?**
 
-Pour toute question ou simplement échanger sur les sujets du blog, vous pouvez me contacter par email à **[contact@sofianlak.fr](mailto:contact@sofianlak.fr)** ou via **[LinkedIn](https://www.linkedin.com/in/sofianlakhdar/)**. 
+Pour toute question ou simplement échanger sur les sujets du blog, vous pouvez me contacter par email à **[contact@sofianlak.fr](mailto:contact@sofianlak.fr)** ou via **[LinkedIn](https://www.linkedin.com/in/sofianlakhdar/){:target="_blank"}**. 
 Que ce soit pour discuter de SRE/DevOps, de voyages, ou d’autres passions communes, n’hésitez pas à me joindre !
-
