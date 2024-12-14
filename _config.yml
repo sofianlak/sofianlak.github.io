@@ -14,13 +14,12 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: SRE & Cie # the main title
+title: "Sofianlak > DevOps & SRE" # the main title
 
-tagline: sofianlak # it will display as the sub-title
+tagline: "Outils, concepts et pratiques expliqués en schémas simples" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Le blog sur le Site Reliability Engineering, les outils modernes, les bonnes pratiques et des réflexions au-delà du monde technologique.
-
+  Explorez DevOps & SRE avec des schémas visuels simples et efficaces. Idéal pour maîtriser rapidement les concepts et outils clés.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -30,7 +29,7 @@ github:
   username: sofianlak # change to your github username
 
 # twitter:
-  # username: # change to your twitter username
+# username: # change to your twitter username
 
 social:
   # Change to your full name.
@@ -104,7 +103,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-   # Global switch for the post comment system. Keeping it empty means disabled.
+  # Global switch for the post comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
@@ -196,8 +195,10 @@ defaults:
     values:
       swcache: true
 
-sass:
+ass:
   style: compressed
+  sourcemap: never
+  quiet_deps: true
 
 compress_html:
   clippings: all
@@ -217,6 +218,8 @@ exclude:
   - LICENSE
   - "*.config.js"
   - package*.json
+  - assets/feed.xml
+  - assets/img/favicons/site.webmanifest
 
 jekyll-archives:
   enabled: [categories, tags]

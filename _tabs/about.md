@@ -13,7 +13,7 @@ Grand passionné de **`vélo`** et d’**`aventure`**, il découvre de nouvelles
 
 ## **Pourquoi ce blog ?**
 
-Ce blog a été créé pour **`partager`** des connaissances théoriques et pratiques sur le SRE, un domaine essentiel pour la fiabilité des services IT, souvent difficile d’accès pour les débutants. En expliquant les concepts de manière simple et en fournissant des exemples concrets, j’espère aider ceux qui souhaitent se lancer ou approfondir leurs connaissances en SRE et DevOps.
+Ce blog a pour objectif de **`partager`**  des connaissances théoriques et pratiques sur le SRE et le DevOps, des domaines essentiels pour garantir la fiabilité et l'efficacité des services IT. Ces sujets peuvent souvent paraître complexes pour les débutants. En utilisant des **`schémas simples`**, je cherche à rendre ces concepts plus accessibles, que ce soit pour ceux qui débutent ou pour ceux qui souhaitent approfondir leurs compétences en SRE et DevOps
 
 Ce blog reflète également mon parcours d’apprentissage dans ce domaine et mon goût pour la **`découverte`**, tant sur le plan technique que dans la vie, en explorant également d’autres sujets qui m’intéressent.
 

@@ -1,0 +1,4 @@
+# .scss-lint.yml
+linters:
+  ImportantRule:
+    enabled: false
