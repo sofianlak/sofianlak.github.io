@@ -1,15 +1,17 @@
 ---
 title: La Paire de Rayons au Pays du Soleil Levant
 date: 2024-11-12 00:00:00 +0100
-categories: [Cie, Voyage à vélo]
-tags: [voyage à vélo, japon, corée du sud] # TAG names should always be lowercase
+categories: [Life, Travel]
+tags: [bikepacking] # TAG names should always be lowercase
 description: Rétrospective de mon voyage à vélo de Séoul à Tokyo
 author: sofianlak
 image:
   path: /assets/img/headers/s2t-header.jpg
 ---
 
-<br>
+> For english speakers, this article is available [here](https://medium.com/@sofianlakhdar/the-pair-of-spokes-in-the-land-of-the-rising-sun-90479ecf13d0){:target="\_blank"}.
+{: .prompt-info }
+
 
 ## **L’appel du départ**
 
