@@ -353,7 +353,7 @@ To set this up, follow these steps:
 3.	`Generate an API Token`:
 	-	Go to “User Settings” > “Tokens” in Terraform Cloud and generate a personal API token. Keep this token, as we are going to store it in the Github Secrets later on.
 4.	`Configure Terraform to Use Terraform Cloud`:
-	-	In your providers.tf, configure the cloud provider as we did [here](https://sofianlak.fr/posts/text2vector-converter-using-azure-terraform-and-githubactions/#providerstf)
+	-	In your providers.tf, configure the cloud provider as we did [here](https://sofianlak.fr/posts/text2vector-converter-using-azure-terraform-and-github-actions/#providerstf)
 
 ![Desktop View](/assets/img/text2vector/terraform-cloud.png){: width="972" height="589" style="border-radius: 20px;"}
 _Terraform organization and workspace ready for deployment_
