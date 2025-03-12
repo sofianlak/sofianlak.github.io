@@ -16,7 +16,7 @@ timezone: Europe/Paris
 
 title: "Sofian Lakhdar" # the main title
 
-tagline: "Sharing my knowledge about DevOps, SRE, & life experiences" # it will display as the sub-title
+tagline: "Sharing my knowledge about DevOps, Platform Engineering & life experiences" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog sharing insights on DevOps, Site Reliability Engineering (SRE), and life experiences.
