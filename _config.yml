@@ -125,9 +125,9 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: false # temporarily disable PWA to avoid cached pages while debugging giscus
+  enabled: true # re-enable PWA once giscus is working
   cache:
-    enabled: false
+    enabled: true
     deny_paths:
       # - "/example"
 
