@@ -3,12 +3,11 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.4.1"
-gem 'jekyll-theme-chirpy', '~> 7.2', '>= 7.2.4'
+gem 'jekyll-theme-chirpy', '~> 7.4', '>= 7.4.1'
 gem 'base64'
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
-  gem 'jekyll-feed'
   gem 'jekyll-seo-tag'
   gem 'jekyll-archives'
   gem 'jekyll-paginate'
