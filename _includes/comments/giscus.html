@@ -1,16 +1,16 @@
-<!-- Custom giscus embed (light theme forced) based on Chirpy default -->
+<!-- https://giscus.app/ -->
 <script>
   (function () {
-    // Force light theme for giscus regardless of site theme
-    const themeMapper = Theme.getThemeMapper('light', 'light');
+    const themeMapper = Theme.getThemeMapper('light', 'dark_dimmed');
     const initTheme = themeMapper[Theme.visualState];
 
     let lang = '{{ site.comments.giscus.lang | default: lang }}';
+    {% comment %} https://github.com/giscus/giscus/tree/main/locales {% endcomment %}
     if (lang.length > 2 && !lang.startsWith('zh')) {
       lang = lang.slice(0, 2);
     }
 
-    const giscusAttributes = {
+    let giscusAttributes = {
       src: 'https://giscus.app/client.js',
       'data-repo': '{{ site.comments.giscus.repo}}',
       'data-repo-id': '{{ site.comments.giscus.repo_id }}',
@@ -28,7 +28,7 @@
       async: ''
     };
 
-    const giscusNode = document.createElement('script');
+    let giscusNode = document.createElement('script');
     Object.entries(giscusAttributes).forEach(([key, value]) =>
       giscusNode.setAttribute(key, value)
     );
