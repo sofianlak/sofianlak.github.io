@@ -129,7 +129,7 @@ assets:
 pwa:
   enabled: true # re-enable PWA once giscus is working
   cache:
-    enabled: true
+    enabled: # keep empty to disable service-worker caching and prevent stale pages
     deny_paths:
       # - "/example"
 
