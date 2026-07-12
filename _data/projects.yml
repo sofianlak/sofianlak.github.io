@@ -1,0 +1,31 @@
+- title: Gitlab Super Search
+  description: |
+    Search for patterns across every project in a GitLab group and export the results in different formats.
+
+    The goal of this project was to simplify large-scale code audits, identify outdated or risky configurations and provide a clear, actionable report.
+
+  icon: fa-brands fa-gitlab
+  tags:
+    - gitlab
+    - cli
+    - code-search
+  links:
+    - label: GitHub
+      url: https://github.com/sofianlak/gitlab-super-search
+      icon: fab fa-github
+
+- title: FinOps Factory
+  description: |
+    Collect and consolidate cost data across multiple cloud providers for centralized dashboards.
+
+    The goal of this project was to improve cost visibility, identify optimization opportunities and help teams better understand and manage their cloud spending.
+
+  icon: fas fa-piggy-bank
+  tags:
+    - finops
+    - cloud
+    - data
+  links:
+    - label: GitHub
+      url: https://github.com/sofianlak/finops-factory
+      icon: fab fa-github
