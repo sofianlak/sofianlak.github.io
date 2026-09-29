@@ -1,6 +1,6 @@
 ---
 title: The Terminal I Share With My Agents
-date: 2026-09-28 18:00:00 +0200
+date: 2026-09-29 09:00:00 +0200
 categories: [DevOps, Development]
 tags: [terminal, herdr, hermes, coding-agents]
 description: The terminal is becoming the control plane for my agents.
