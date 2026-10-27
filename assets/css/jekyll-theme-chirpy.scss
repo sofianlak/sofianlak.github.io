@@ -8,6 +8,16 @@
 {%- endif -%}
 ';
 
+/* Keep the sidebar description clear of the navigation. */
+#sidebar .site-subtitle {
+  height: auto;
+  min-height: 3rem;
+}
+
+#sidebar nav {
+  margin-top: 1rem;
+}
+
 /* Home cards: keep default layout, normalize preview image size */
 #post-list .card .preview-img {
   height: clamp(120px, 14vw, 155px);
