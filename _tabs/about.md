@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 title: About Sofian Lakhdar
 description: >-
-  Learn more about Sofian Lakhdar, a DevOps and Platform Engineer. Discover his journey, skills, and projects.
+  Learn more about Sofian Lakhdar, a DevOps and Platform Engineer. Discover his journey and skills.
 ---
 
 ## **Who am I?**

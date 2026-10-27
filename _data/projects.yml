@@ -1,7 +1,0 @@
-- title: Gitlab Super Search
-  url: https://github.com/sofianlak/gitlab-super-search
-  problem: It is time-consuming to review many repositories for outdated or risky configurations. This tool searches a GitLab group and exports matching files for review.
-
-- title: FinOps Factory
-  url: https://github.com/sofianlak/finops-factory
-  problem: It is difficult to obtain a unified view of cloud costs across providers and there are limited open-source options for connecting and consolidating that data.
