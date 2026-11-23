@@ -21,7 +21,7 @@ end
 group :development do
   gem 'webrick'
   gem 'nokogiri', '~> 1.18'
-  gem 'sass-embedded', '~> 1.83'
+  gem 'sass-embedded', '~> 1.108'
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
