@@ -103,9 +103,9 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
-    nokogiri (1.19.4-arm64-darwin)
+    nokogiri (1.19.7-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.19.4-x86_64-linux-gnu)
+    nokogiri (1.19.7-x86_64-linux-gnu)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -155,7 +155,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-theme-chirpy (~> 7.4, >= 7.4.1)
   logger
-  nokogiri (~> 1.18)
+  nokogiri (~> 1.19)
   rake
   sass-embedded (~> 1.108)
   tzinfo (>= 1, < 3)

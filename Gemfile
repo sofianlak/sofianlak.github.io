@@ -20,7 +20,7 @@ end
 
 group :development do
   gem 'webrick'
-  gem 'nokogiri', '~> 1.18'
+  gem 'nokogiri', '~> 1.19'
   gem 'sass-embedded', '~> 1.108'
 end
 
